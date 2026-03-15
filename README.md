@@ -150,7 +150,9 @@ Future improvements may include:
 ## 11. Author
 
 Student Name: *Denis Bagresolzu Bayor*
+
 Course: **DCIT 403 – Designing Intelligent Agents**
+
 Institution: **University of Ghana**
 
 
